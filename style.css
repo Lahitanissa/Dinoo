@@ -1,0 +1,38 @@
+/* style.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #b2c8ba;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #86a789;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px white (0, 0, 0, 0.2);
+}
+
+img {
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+}
+
+h1 {
+  color: white cvc v; /* Merah */
+}
+
+p {
+  color: white;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.container .photo-gallery img {
+  max-width: 50%;
+  height: auto;
+}
